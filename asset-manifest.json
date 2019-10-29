@@ -1,16 +1,16 @@
 {
-  "main.css": "/phonestore/static/css/main.4f74e215.chunk.css",
-  "main.js": "/phonestore/static/js/main.b678f4c8.chunk.js",
-  "main.js.map": "/phonestore/static/js/main.b678f4c8.chunk.js.map",
+  "main.css": "/phonestore/static/css/main.00295eaf.chunk.css",
+  "main.js": "/phonestore/static/js/main.9eeb97d7.chunk.js",
+  "main.js.map": "/phonestore/static/js/main.9eeb97d7.chunk.js.map",
   "runtime~main.js": "/phonestore/static/js/runtime~main.d1a3666d.js",
   "runtime~main.js.map": "/phonestore/static/js/runtime~main.d1a3666d.js.map",
-  "static/css/2.2dcec150.chunk.css": "/phonestore/static/css/2.2dcec150.chunk.css",
+  "static/css/2.3aa96634.chunk.css": "/phonestore/static/css/2.3aa96634.chunk.css",
   "static/js/2.3c3b1735.chunk.js": "/phonestore/static/js/2.3c3b1735.chunk.js",
   "static/js/2.3c3b1735.chunk.js.map": "/phonestore/static/js/2.3c3b1735.chunk.js.map",
   "index.html": "/phonestore/index.html",
-  "precache-manifest.8e3ac103656cf0b41688651be9ee7009.js": "/phonestore/precache-manifest.8e3ac103656cf0b41688651be9ee7009.js",
+  "precache-manifest.2c4889b56c8e8cba3553c1b7a26c2683.js": "/phonestore/precache-manifest.2c4889b56c8e8cba3553c1b7a26c2683.js",
   "service-worker.js": "/phonestore/service-worker.js",
-  "static/css/2.2dcec150.chunk.css.map": "/phonestore/static/css/2.2dcec150.chunk.css.map",
-  "static/css/main.4f74e215.chunk.css.map": "/phonestore/static/css/main.4f74e215.chunk.css.map",
+  "static/css/2.3aa96634.chunk.css.map": "/phonestore/static/css/2.3aa96634.chunk.css.map",
+  "static/css/main.00295eaf.chunk.css.map": "/phonestore/static/css/main.00295eaf.chunk.css.map",
   "static/media/logo.svg": "/phonestore/static/media/logo.9f7e506d.svg"
 }
