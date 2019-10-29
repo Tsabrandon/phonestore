@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "abec75ed02bd51ea3cc6",
+    "revision": "14871ff5402fb7377f19",
     "url": "/phonestore/static/css/main.4f74e215.chunk.css"
   },
   {
-    "revision": "abec75ed02bd51ea3cc6",
-    "url": "/phonestore/static/js/main.96ff38e6.chunk.js"
+    "revision": "14871ff5402fb7377f19",
+    "url": "/phonestore/static/js/main.29bd39ff.chunk.js"
   },
   {
     "revision": "511939dba0c1763c0043",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/phonestore/static/media/logo.9f7e506d.svg"
   },
   {
-    "revision": "ae593d47bf6f60a6d6b138cc69256ba4",
+    "revision": "a15c0a2153c344096f35d1dabeb2002a",
     "url": "/phonestore/index.html"
   }
 ];
